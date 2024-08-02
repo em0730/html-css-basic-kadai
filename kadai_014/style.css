@@ -1,0 +1,23 @@
+body {
+  font-family: Arial", "Meiryo", sans-serif;
+}
+.google-fonts {
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet"> /* ここにGoogle Fontsを指定します */
+}
+html {
+  text-align: center;
+}
+
+.h1 {
+  font-size: 48px;
+  border-bottom: dotted 3px rgb(115, 115, 114);
+}
+#basic p {
+  font-weight: bold;
+}
+
+#basic h2 {
+  font-weight: bold;
+}
